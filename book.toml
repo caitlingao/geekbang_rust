@@ -3,4 +3,4 @@ authors = ["Caitlin Gao"]
 language = "en"
 multilingual = false
 src = "src"
-title = "geekbang_rust"
+title = "Rust编程之道"
